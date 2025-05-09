@@ -60,6 +60,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/utopLogo.png",
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: "Utopiaswap",
         logo: {
