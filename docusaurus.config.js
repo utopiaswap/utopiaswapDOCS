@@ -101,10 +101,6 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Telegram",
-                href: "https://t.me/utopiaswap",
-              },
-              {
                 label: "X",
                 href: "https://x.com/UtopiaSwap",
               },

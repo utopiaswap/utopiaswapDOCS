@@ -81,7 +81,7 @@ Airdrops will be distributed in **waves**:
 - 📦 **Wave 2**: Ongoing rewards for consistent usage
 - 📦 **Wave 3**: Referral-based or governance engagement (coming soon)
 
-> Snapshot dates and token distribution timelines will be announced via our [X](https://x.com/UtopiaSwap) and [Telegram](https://t.me/utopiaswap).
+> Snapshot dates and token distribution timelines will be announced via our [X](https://x.com/UtopiaSwap).
 
 ---
 
